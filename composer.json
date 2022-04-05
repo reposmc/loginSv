@@ -1,0 +1,30 @@
+{
+    "name": "leolopez/loginsv",
+    "description": "LoginSv Authentication",
+    "type": "library",
+    "require": {
+        "laravel/socialite": "5.5.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leonel Lopez",
+            "email": "lalopez@cultura.gob.sv"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Leolopez\\Loginsv\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "\\Leolopez\\Loginsv\\LoginSvServiceProvider"
+            ],
+            "aliases": {
+                "Loginsv": "Leolopez\\Loginsv\\Facades\\Loginsv"
+            }
+        }
+    }
+}
