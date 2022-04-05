@@ -1,4 +1,9 @@
 ## Autenticación LoginSV para Laravel.
+[![Latest Stable Version](http://poser.pugx.org/leolopez/loginsv/v)](https://packagist.org/packages/leolopez/loginsv) 
+[![Total Downloads](http://poser.pugx.org/leolopez/loginsv/downloads)](https://packagist.org/packages/leolopez/loginsv) 
+[![Latest Unstable Version](http://poser.pugx.org/leolopez/loginsv/v/unstable)](https://packagist.org/packages/leolopez/loginsv) 
+[![License](http://poser.pugx.org/leolopez/loginsv/license)](https://packagist.org/packages/leolopez/loginsv) 
+[![PHP Version Require](http://poser.pugx.org/leolopez/loginsv/require/php)](https://packagist.org/packages/leolopez/loginsv)
 
 ### Instalación
 
