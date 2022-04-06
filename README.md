@@ -41,4 +41,14 @@ Agregar las referencias del controlador dentro del archivo de configuración `co
         'client_secret' => env('LOGIN_SV_CLIENT_SECRET'),
         'redirect' => env('LOGIN_SV_REDIRECT'),
     ],
+    
+## Rutas disponibles
+
+Esta ruta redirige a la ruta del proveedor para ser autenticado.
+    
+    /redirectToProvider
+    
+Esta ruta en la cual retorna el proveedor luego de ser autenticado.
+
+    /callback
 
