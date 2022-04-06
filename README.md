@@ -48,7 +48,7 @@ Esta ruta redirige a la ruta del proveedor para ser autenticado.
     
     /redirectToProvider
     
-Esta ruta en la cual retorna el proveedor luego de ser autenticado.
+Esta ruta es la que retorna el proveedor luego de ser autenticado.
 
     /callback
 
