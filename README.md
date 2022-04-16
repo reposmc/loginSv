@@ -1,4 +1,4 @@
-## Autenticación LoginSV para Laravel.
+## Librería para la autenticación de LoginSV para Laravel.
 [![Latest Stable Version](http://poser.pugx.org/leolopez/loginsv/v)](https://packagist.org/packages/leolopez/loginsv) 
 [![Total Downloads](http://poser.pugx.org/leolopez/loginsv/downloads)](https://packagist.org/packages/leolopez/loginsv) 
 [![Latest Unstable Version](http://poser.pugx.org/leolopez/loginsv/v/unstable)](https://packagist.org/packages/leolopez/loginsv) 
