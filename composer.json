@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": ">=7.3.2",
-        "laravel/socialite": "5.5.2"
+        "laravel/socialite": "^5.5.2"
     },
     "license": "MIT",
     "authors": [
